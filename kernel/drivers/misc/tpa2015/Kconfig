@@ -1,0 +1,5 @@
+config TPA2015
+    tristate "TPA2015 Driver"
+	default y
+	help
+		Say Y to enable TPA2015 PA Support

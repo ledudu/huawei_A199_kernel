@@ -1,0 +1,2 @@
+/mnt/disk/huawei/G710C/kernel/drivers/compat-wireless/drivers/net/wireless/ti/wl12xx/wl12xx.ko
+/mnt/disk/huawei/G710C/kernel/drivers/compat-wireless/drivers/net/wireless/ti/wl12xx/main.o /mnt/disk/huawei/G710C/kernel/drivers/compat-wireless/drivers/net/wireless/ti/wl12xx/cmd.o /mnt/disk/huawei/G710C/kernel/drivers/compat-wireless/drivers/net/wireless/ti/wl12xx/acx.o /mnt/disk/huawei/G710C/kernel/drivers/compat-wireless/drivers/net/wireless/ti/wl12xx/debugfs.o
